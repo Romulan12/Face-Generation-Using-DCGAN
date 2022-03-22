@@ -4,10 +4,12 @@ The model was trained on a subset of the [celebA](http://mmlab.ie.cuhk.edu.hk/pr
 
 
 ## Usage 
-Download the dataset 
 
+### Train : 
+``` pyhton3 train.py ``` 
 
-
+### Test
+``` pyhton3 test.py ``` 
 
 ## Visualising Loss
 Plot of the training losses for the generator and discriminator:
